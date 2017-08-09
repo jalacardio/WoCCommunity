@@ -1,0 +1,9 @@
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\bin\Debug\netcoreapp1.1\WoCMvc.deps.json
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\bin\Debug\netcoreapp1.1\WoCMvc.runtimeconfig.json
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\bin\Debug\netcoreapp1.1\WoCMvc.runtimeconfig.dev.json
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\bin\Debug\netcoreapp1.1\WoCMvc.dll
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\bin\Debug\netcoreapp1.1\WoCMvc.pdb
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\obj\Debug\netcoreapp1.1\WoCMvc.csprojResolveAssemblyReference.cache
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\obj\Debug\netcoreapp1.1\WoCMvc.AssemblyInfo.cs
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\obj\Debug\netcoreapp1.1\WoCMvc.dll
+c:\users\yang3\onedrive\documents\visual studio 2017\Projects\WoCMvc\WoCMvc\obj\Debug\netcoreapp1.1\WoCMvc.pdb
